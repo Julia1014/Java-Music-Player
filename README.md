@@ -1,5 +1,6 @@
 # Java-Music-Player
-Welcome! In this java project, I created a basic algorithm that can analyze a given Amazon Review text and display a graph which counts the emotions displayed in the review. In terms of the technical process, I pre-processed the Amazon review data, tokenized and used Natural Language Processing to analyze the emotions found in Amazon Reviews. The toughest challenge was finding the right models and making sure the algorithm and data visualizations were accurate. 
+Welcome! In this class java project, I created a music player simulator in java. This music player takes an initial database of songs and 
+allows new song add-ins, playlist creations, and multiple playback modes (i.e. in-order, random, recommended, most frequently listened). The song data was stored using tree maps and hash tables. The recommended songs were chosen using the Jaccard Similarity Score and utilizing Priority Queues to create the recommendation system and algorithm. The toughest challenge was making sure each class and playlist component integrates well with each other, as they build off of each other. 
 
 ## Credits
-1. [Project instructions]([https://youtu.be/dyN_WtjdfpA] 
+1. [Project instructions](https://docs.google.com/document/d/1RIX4bx6qbiQgcwryeV--R_qhfxB4T0rfFzQ-klzIgzU/edit?usp=sharing)
